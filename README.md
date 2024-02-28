@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the 'Google Data Analytics Professional Certificate' at Coursera.
 - 💞️ I’m looking to collaborate on data analysis projects to show my team work skills.
 - 📫 The best way to reach me is by writing me a message on LinkedIn.
-- ⚡ Fun fact: I saw twice Stephen William Hawking in Cambridge.
+- ⚡ Fun fact: I saw twice Stephen William Hawking.
 
 <!---
 tomthescientist3001/tomthescientist3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
