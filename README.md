@@ -1,10 +1,10 @@
 ### Hello, I’m Tomas De La Fuente Marques!
 
-👋 I’m a Molecular Cell Biologist and you could find me here at [LinkedIn](https://www.linkedin.com/in/tomthescientist3001/) <br>
-🏫 I’m graduated in Medical & Molecular Biological Sciences (BSc) from Anglia Ruskin University, England. <br>
-🏫 I’m graduated in Biotechnical Systems & Technologies (MSc) from Tomsk Polytechnic University, Russia. <br>
+👋 I’m a Molecular Cell Biologist and you can find me here at [LinkedIn](https://www.linkedin.com/in/tomthescientist3001/) <br>
+🏫 I’ve graduated in Medical & Molecular Biological Sciences (BSc) from Anglia Ruskin University, England. <br>
+🏫 I’ve graduated in Biotechnical Systems & Technologies (MSc) from Tomsk Polytechnic University, Russia. <br>
 👀 I’m interested in becoming a Data Analyst to collect, clean, prepare and analyse data in order to solve problems. <br>
-🌱 I’m currently learning the 'Google Data Analytics Professional Certificate' at Coursera. <br>
+🌱 I’m currently stdying the 'Google Data Analytics Professional Certificate' at Coursera. <br>
 💞️ I’m looking to collaborate on data analytics projects to show team work skills. <br>
 📫 The best way to reach me is by writing me a message on LinkedIn. <br>
 ⚡ Fun fact: I saw twice Stephen William Hawking. <br>
